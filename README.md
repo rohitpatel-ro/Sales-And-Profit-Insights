@@ -5,7 +5,7 @@ and make data-driven decisions to boost profitability.
 
 📊 Dashboard Access
 Access the interactive Tableau dashboard here:
-[View Sales And Profit Insights Dashboard]([https://your-tableau-dashboard-link](https://public.tableau.com/app/profile/rohit.patel8054/viz/SalesInsightDashboard_17514504821620/Dashboard1?publish=yes))
+[View Sales And Profit Insights Dashboard](https://public.tableau.com/app/profile/rohit.patel8054/viz/SalesInsightDashboard_17514504821620/Dashboard1?publish=yes)
 
 ## About
 
